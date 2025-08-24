@@ -1,0 +1,10 @@
+name: YcoordMenus
+version: '${project.version}'
+main: ru.ycoord.YcoordMenus
+api-version: '1.16'
+softdepend: []
+depend:
+  - YcoordCore
+commands:
+  ym:
+    description: Core commands
