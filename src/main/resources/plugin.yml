@@ -7,4 +7,4 @@ depend:
   - YcoordCore
 commands:
   ym:
-    description: Core commands
+    description: Menu commands

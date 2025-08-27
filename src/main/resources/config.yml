@@ -1,0 +1,11 @@
+messages:
+  ym-migrate-desc:
+    - миграция с DeluxeMenus
+  ym-open-desc:
+    - открыть выбранное меню
+  ym-desc:
+    - команды для работы с меню
+  ym-gui-requirement-failed:
+    - такого меню нет
+  ym-loaded:
+    - меню %menu-name% успешно загружено. Открыть меню /ym open %menu-name%
